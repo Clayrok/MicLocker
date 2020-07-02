@@ -1,0 +1,13 @@
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.exe
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.deps.json
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.runtimeconfig.json
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.runtimeconfig.dev.json
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.dll
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\bin\Release\netcoreapp3.1\MicLocker.pdb
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\SystemTrayTest.csprojAssemblyReference.cache
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\SystemTrayTest.AssemblyInfoInputs.cache
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\SystemTrayTest.AssemblyInfo.cs
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\SystemTrayTest.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\MicLocker.dll
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\MicLocker.pdb
+C:\Users\Clay\source\repos\SystemTrayTest\SystemTrayTest\obj\Release\netcoreapp3.1\SystemTrayTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.exe
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.deps.json
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.runtimeconfig.json
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.runtimeconfig.dev.json
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.dll
+C:\Users\Clay\source\repos\MicLocker\MicLocker\bin\Release\netcoreapp3.1\MicLocker.pdb
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.csprojAssemblyReference.cache
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.AssemblyInfoInputs.cache
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.AssemblyInfo.cs
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.csproj.CoreCompileInputs.cache
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.dll
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.pdb
+C:\Users\Clay\source\repos\MicLocker\MicLocker\obj\Release\netcoreapp3.1\MicLocker.genruntimeconfig.cache
